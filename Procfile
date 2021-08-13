@@ -1,1 +1,1 @@
-Procfile
+web: gunicorn <probably some more stuff later on>
