@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} /*Removes some default styling*/
+
+/*---------- Nav Bar START ----------*/
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    background-color: #034750;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.logo{
+    color: rgb(223, 223, 223);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    font-size: 20px;
+}
+/*----------- Nav Bar END -----------*/
